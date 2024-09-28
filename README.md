@@ -24,17 +24,27 @@ The function generate_gemini_content(transcript_text, prompt) sends the transcri
 Streamlit Application:
 
 The app's title is set to "YouTube Transcript to Detailed Notes Converter".
+
 A text input widget allows users to enter a YouTube video link.
+
 When a valid YouTube link is provided, the video thumbnail is displayed.
 A button labeled "Get Detailed Notes" triggers the extraction and summarization process.
+
 The resulting summary is displayed as markdown under the heading "Detailed Notes".
-Required Packages
+
+
+##Required Packages
+
 youtube_transcript_api: For fetching transcripts from YouTube videos.
 streamlit: For building the web application interface.
 google-generativeai: For interacting with Google's generative AI models.
 python-dotenv: For loading environment variables from a .env file.
 pathlib: For file path operations (although not explicitly used in the given code).
-Usage
+
+
+
+##Usage
+
 Ensure the necessary packages are installed.
 Set up a .env file with the required Google API key.
 Run the Streamlit application using streamlit run <script_name>.py.
