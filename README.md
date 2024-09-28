@@ -50,3 +50,14 @@ Set up a .env file with the required Google API key.
 Run the Streamlit application using streamlit run <script_name>.py.
 Enter a YouTube video link in the text input field and click "Get Detailed Notes" to generate the video summary.
 This application provides a convenient way to convert YouTube video transcripts into concise, detailed notes using state-of-the-art generative AI.
+
+
+OUTPUTS
+
+
+![output 3](https://github.com/user-attachments/assets/6d405c3f-4c56-4143-b882-9c57a98d7244)
+
+![output 2](https://github.com/user-attachments/assets/0098f56f-edb4-4ee2-a71f-e10519cc575a)
+
+![output1](https://github.com/user-attachments/assets/9e2f70f7-8fb0-497d-a117-265b866815b2)
+
